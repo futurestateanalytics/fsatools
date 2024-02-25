@@ -1,6 +1,7 @@
 #' @title Add a Dockerfile
 #' @description Adds a Dockerfile to the root directory to containerize a shiny app or report
 #' @return a Dockerfile
+#' @export
 
 add_dockerfile <-
   function(){

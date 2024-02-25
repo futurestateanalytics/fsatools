@@ -3,6 +3,7 @@
 #' @param data a dataframe
 #' @param digits number of digits to round to
 #' @return a dataframe
+#' @export
 
 round_numerics <-
   function(data, digits = 2){
