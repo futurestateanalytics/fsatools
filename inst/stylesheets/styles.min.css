@@ -1,0 +1,47 @@
+body {
+  font-family: "IBM Plex Mono", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "IBM Plex Sans", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: "IBM Plex Mono", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #0081F6;
+}
+
+p {
+  font-family: "IBM Plex Sans", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.tooltip, .popover {
+  font-family: "IBM Plex Mono", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #0081F6;
+}
+
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    font-family: "IBM Plex Mono", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    z-index: 2;
+    color: #fff;
+    background-color: #0081F6;
+    border-color: #0081F6;
+}
+
+.tocify ul, .tocify li {
+    font-family: "IBM Plex Mono", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border: none;
+    line-height: 30px;
+}
+
+.main-container {
+  max-width: 1200;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header{
+  margin-top:15px
+}

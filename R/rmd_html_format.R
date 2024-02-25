@@ -1,7 +1,5 @@
-#' Custom HTML template
-#'
-#' Loads additional style and template file
-#'
+#' @title Custom HTML template
+#' @description additional style and template file
 #' @param toc should a table of contents be displayed?
 #' @param ... additional arguments provided to \@code{html_document}
 #' @export
