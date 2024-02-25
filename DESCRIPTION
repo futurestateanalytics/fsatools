@@ -2,9 +2,8 @@ Package: fsatools
 Type: Package
 Title: Utility Functions for FSA Analyses and Reports
 Version: 0.1.0
-Authors@R: person("FutureStateAnalytis, email = "info@futurestateanalytics.io",
-  role = c("aut", "cre"))
-Maintainer: FutureStateAnalytics info@futurestateanalytics.io
+Authors@R: person("FutureStateAnalytics", email = "info@futurestateanalytics.io", role = c("aut", "cre"))
+Maintainer: FutureStateAnalytics <info@futurestateanalytics.io>
 Description:
 License: `use_mit_license()`
 Encoding: UTF-8
