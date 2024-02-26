@@ -1,0 +1,29 @@
+---
+output:
+  pdf_document
+---
+
+# Invoice
+
+### From: Future State Analytics
+
+#### For:
+
+#### Date:
+
+#### Invoice: #000
+
+| Task | Description | Hours | Rate  | Total |
+|:-----|:------------|:------|:------|:------|
+| 1    | stuff       | 6     | \$ 50 | \$300 |
+|      |             |       |       |       |
+|      |             |       |       |       |
+|      |             |       |       |       |
+|      |             |       |       |       |
+|      |             |       |       |       |
+|      |             |       |       |       |
+|      |             |       |       |       |
+|      |             |       |       |       |
+|      |             |       |       |       |
+
+### Total: \$300

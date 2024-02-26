@@ -1,8 +1,9 @@
 ---
-title: "Statement of Work"
 output:
   pdf_document
 ---
+
+# Statement of Work
 
 #### By: Future State Analytics
 
