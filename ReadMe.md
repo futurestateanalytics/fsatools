@@ -1,3 +1,3 @@
 ## fsatools
 
-install_github("futurestateanalytics/fsatools")
+`renv::install("futurestateanalytics/fsatools")`
