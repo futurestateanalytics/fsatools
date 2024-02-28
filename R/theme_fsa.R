@@ -130,7 +130,16 @@ scale_fill_fsa <-
     palette_gen(palette, direction),
     ...
   )
-}
+  }
+
+scale_fill_fsa_c <-
+  function(palette = "main", direction = 1, ...) {
+
+    pal <- palette_gen_c(palette = palette, direction = direction)
+
+    scale_fill_gradientn(colors = pal(256), ...)
+
+  }
 
 scale_color_fsa <-
   function(palette = "main", direction = 1, ...) {
