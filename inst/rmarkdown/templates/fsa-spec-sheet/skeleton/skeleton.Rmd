@@ -1,0 +1,57 @@
+---
+title: "Future State Analytics"
+author: "Contact: Brendan Graham | 484-883-9211 | brendan@futurestateanalytics.io"
+output: pdf_document
+subtitle: 2024 Services Offered
+---
+
+### Timelines
+
+Timelines are variable depending on the type of work, complexity of underlying data and analysis deliverable.
+
+------------------------------------------------------------------------
+
+### Basic data analysis:
+
+-   Cost: \$50/hr
+-   Description:
+-   These tend to be analyses that can help with day to day operations. You have data and an idea of what you want to analyze, but need expertise and some help getting to the finish line
+-   Example Deliverables
+-   excel analyses
+-   basic plots for presentations
+-   Scenarios
+-   you export sales data from your POS vendor software and you want to analyze sales across different inventory items or over time
+-   your small non-profit needs help standardizing and organizing a list of donors
+
+------------------------------------------------------------------------
+
+### PDF Reports / advanced data science work / advanced data viz:
+
+-   Cost: \$75/hr
+-   Description:
+-   These tend to be analyses that can help with bigger picture operations. You have a lot of data and want to do something with it, but maybe you're not exactly sure what questions to ask of the data. I'd work with you to help frame the business question, identify relevant data and scope out the deliverable.
+-   Example Deliverables
+-   recurring PDF reports / annual reports
+-   customer analysis
+-   annual report
+-   Scenarios
+-   you have website visit data and need help understanding customer behavior
+-   you have a big annual report coming up and need some fancy visuals
+-   your data is a mess and you need some help wrangling it all
+
+------------------------------------------------------------------------
+
+### Statistical modeling / interactive web app:
+
+-   Cost: \$100/hr
+-   Description:
+-   Analyses to help with longer term *strategic decisions*. This type of analysis can give you confidence to make you make the bigger questions that impact your organization or business.
+-   Example Deliverables
+-   interactive dashboards
+-   web based apps and reports
+-   time series forecasting
+-   market basket analysis
+-   Scenarios
+-   you run a business that is highly seasonal and want to understand customer behavior year over year to better anticipate inventory needs
+-   you want to better understand items customers tend to buy together to inform marketing or sale strategy
+-   you're non-profit is seeing a change in donations and are curious which donor clusters have decreased the most in order to inform outreach campaigns
